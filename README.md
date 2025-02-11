@@ -16,7 +16,7 @@
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-repo/book-review-service.git
+git clone git@github.com:dmytrovb02/book-ms.git
 cd book-review-service
 ```
 
